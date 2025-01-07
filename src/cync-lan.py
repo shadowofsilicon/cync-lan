@@ -637,10 +637,15 @@ class CyncCloudAPI:
 
 
 type_2_str = {
+    5: "Tunable White Smart Bulb (A19)",
+    19: "Tunable White Smart Bulb (A19)",
     31: "C by GE Full Color A19 Bulb (BTLE only)",
     37: "Dimmer Switch with Motion and Ambient Light",
     42: "Reveal HD+ Smart Under Cabinet Light - 18 Inch",
     43: "Reveal HD+ Smart Under Cabinet Light - 24 Inch",
+    52: "On/Off Switch",
+    58: "On/Off Switch (No Neutral Required)",
+    64: "On/Off Smart Plug",
     68: "Indoor Direct Connect Plug",
     113: "Wire-Free White Temperature Dimmer Switch",
     133: "Full Color Direct Connect LED Light Strip Controller",
@@ -650,7 +655,6 @@ type_2_str = {
     146: "Full Color Direct Connect Edison ST19 Bulb",
     147: "Full Color Direct Connect Edison G25 Bulb",
     148: "Dimmable Direct Connect Edison ST19 Bulb",
-
     224: "Direct Connect Thermostat",
 }
 
